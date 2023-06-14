@@ -1,0 +1,2 @@
+# .github
+Application related repositories
