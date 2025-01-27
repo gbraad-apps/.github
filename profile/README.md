@@ -15,10 +15,10 @@ Here you can find some of the hosted application I made.
 
 This organization also contains applications that I often deploy for accessing resources that are part my [homelab](https://github.com/gbraad-homelab).
 
-- [Obsidian](https://github.com/gbraad-apps/personal-obsidian)
-  A super-charged note-taking application
-- [LibreOffice](https://github.com/gbraad-apps/personal-libreoffice)
-  OfficeSuite
+- [Obsidian](https://github.com/gbraad-apps/personal-obsidian)  
+  A super-charged note-taking application for remote use
+- [LibreOffice](https://github.com/gbraad-apps/personal-libreoffice)  
+  The well-known LibreOffice suite for remote use
 - ... and more
 
 > [!NOTE]
