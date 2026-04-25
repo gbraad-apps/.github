@@ -3,6 +3,13 @@ Application related repositories
 
 Here you can find some of the hosted application I made.
 
+- [Voicenotes](https://github.com/gbraad-apps/voicenotes-android)  
+  A simple voicenotes recording application with transcription using Whisper.cpp
+- [Voicenotes for Desktop](https://github.com/gbraad-apps/voicenotes-desktop)  
+  A simple voicenotes recording application with transcription using Whisper.cpp
+- [Whiteboard](https://github.com/gbraad-apps/whiteboard-android)  
+  A simple whiteboard application using Excalidraw for Android
+
 - [GAuth](https://gauth.apps.gbraad.nl/)  
   Two-factor authentication application for desktop and/or mobile browsers.
 - [Life Counter](https://lifecounter.apps.gbraad.nl/)  
