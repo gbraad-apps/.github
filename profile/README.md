@@ -3,7 +3,7 @@ Application related repositories
 
 Here you can find some of the hosted application I made.
 
-- [Voicenotes](https://github.com/gbraad-apps/voicenotes-android)  
+- [Voicenotes for Android](https://github.com/gbraad-apps/voicenotes-android)  
   A simple voicenotes recording application with transcription using Whisper.cpp
 - [Voicenotes for Desktop](https://github.com/gbraad-apps/voicenotes-desktop)  
   A simple voicenotes recording application with transcription using Whisper.cpp
